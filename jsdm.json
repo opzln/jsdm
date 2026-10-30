@@ -1,0 +1,32 @@
+{
+  "Gebura": [1500002856],
+
+  "Hornet": [1500002856],
+  
+  "Meaty": [1500002856],
+  
+  "Crusader": [1500002856],
+  
+  "Invisible": [1500002856],
+  
+  "Jimpee": [1500002856],
+  "Big Rah": [1500002856],
+  "Custom Server Moderator": [1500002856],
+  
+  "Moderator Panel": [1500002856],
+  "Developer Panel": [1500002856],
+  "Staff Panel": [1500002856],
+  "Head Staff Panel": [1500002856],
+
+  "Blacklist": [],
+
+  "Scripter Panel": [1500002856],
+
+  "World Events Enabled": {"MeatyMeteor": true, "ABA": false},
+
+  "BloodRestrictedRegions": ["KR", "VN"],
+
+  "Cursed Child Boss Moves": [1500002856],
+
+  "Cursed Child Boss Voicelines": [1500002856]
+}
